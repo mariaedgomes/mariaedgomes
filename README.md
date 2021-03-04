@@ -1,5 +1,4 @@
-<!--
-**mariaedgomes/mariaedgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 # Hello World, eu sou a Maria Gomes
