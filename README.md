@@ -3,10 +3,8 @@
 
 ## Sobre mim
 
-Olá! Me chamo Maria e atualmente faço Engenharia na UFRJ, mas me interessei tanto 
-
-pela área de tecnologia que decidi estudar mais sobre e virar uma desenvoldedora. 
-
+Olá! Me chamo Maria e atualmente faço Engenharia na UFRJ, estudo para me tornar uma 
+desenvolvedora e trabalhar na área de Tecnologia.
 Aqui postarei meus projetos, os quais serão sobre frontend e UI design!
 
 
