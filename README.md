@@ -15,9 +15,9 @@ print('Go code')
 
 ### Habilidades
 
-* Programação básica em Python
+* Python
 * HTML, CSS e Javascript
-* Design
+* Design gráfico
 
 
 ## Contatos
